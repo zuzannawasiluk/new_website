@@ -8,10 +8,10 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - project_file_gz.qmd
-      - zw_mini_project_1a.qmd
-      - econ.qmd
-      - mini_project_4.qmd
+      - olaf_economics.qmd
+      - mini_project_a.qmd
+      - mini_project_b.qmd
+      - mini_project_c.qmd
 
 format:
   html:
